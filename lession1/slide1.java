@@ -1,5 +1,4 @@
 package lession1;
-
 import java.util.Scanner;
 
 public class slide1 {
